@@ -1,7 +1,7 @@
 Judul : Volume Aplication<br><br>
 
-![SS1](https://docs.google.com/uc?id=0Bz7hPTBvtobXZS1pSnItR1pHWFU)<br>
-![SS2](https://docs.google.com/uc?id=0BzlTJcpXGBnGUXNyWHJnQ3llZVU)<br>
+![SS1](https://docs.google.com/uc?id=0B8w2AZUEmJ9fZVdYZnNlZVVqTWs)<br>
+
 
 
 Nama : Ryan Bekti Mahendra<br>
